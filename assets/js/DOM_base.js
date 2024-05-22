@@ -113,3 +113,11 @@ const p = document.querySelector('p');
 //   p.innerHTML = 'MERN devs.';
 // };
 
+// p.onmousedown = ()=> {
+//     p.innerHTML = 'kemon achen?';// mousedown means mouse er left button chap dilei kaj korbe.
+// };
+
+// p.onmouseup = ()=> {
+//     p.innerHTML = 'valo achi';// mousedown means mouse er left button chap diye chere dilei kaj korbe.
+// }
+
